@@ -1,0 +1,4 @@
+﻿  Board.cpp
+c:\users\jonas\source\repos\crosswordspuzzle\crosswordspuzzle\board.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\jonas\source\repos\crosswordspuzzle\crosswordspuzzle\board.cpp(206): warning C4018: '<': signed/unsigned mismatch
+  crosswordspuzzle.vcxproj -> C:\Users\Jonas\source\repos\crosswordspuzzle\Debug\crosswordspuzzle.exe
